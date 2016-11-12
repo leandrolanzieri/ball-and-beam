@@ -1,0 +1,4 @@
+numpy==1.11.1rc1
+PyQt4==4.11.4
+cv2==1.0
+pyserial==3.1.1

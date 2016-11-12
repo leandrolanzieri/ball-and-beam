@@ -1,0 +1,49 @@
+{
+    "sistema": {
+        "baudRate": 9600,
+        "serialPort": "COM9",
+        "camara": {
+            "saturacion": 100,
+            "brillo": 0,
+            "numero": 1,
+            "contraste": 100
+        }
+    },
+    "colores": {
+        "colorReferencia1": {
+            "V_hi": 255,
+            "H_hi": 173,
+            "S_hi": 238,
+            "H_low": 141,
+            "S_low": 71,
+            "V_low": 213
+        },
+        "colorObjetivo": {
+            "V_hi": 255,
+            "H_hi": 40,
+            "S_hi": 255,
+            "H_low": 0,
+            "S_low": 80,
+            "V_low": 205
+        },
+        "colorReferencia2": {
+            "V_hi": 211,
+            "H_hi": 180,
+            "S_hi": 101,
+            "H_low": 91,
+            "S_low": 44,
+            "V_low": 127
+        }
+    },
+    "control": {
+        "constanteProporcion": 1.0,
+        "Kp": 0.25,
+        "Kd": 15.0,
+        "dutyMax": 2150,
+        "dutyCen": 1650,
+        "acumuladoMax": 3000,
+        "Ki": 0.025,
+        "acumuladoMin": -3000,
+        "dutyMin": 1250
+    }
+}
