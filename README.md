@@ -1,6 +1,6 @@
 # Ball and Beam
 
-**The project has been realized for the DSP and Industrial Electronics courses, at the National Technological University of Argentina, Avellaneda Regional Faculty (UTN FRA).**
+**The project has been developed for the DSP and Industrial Electronics courses, at the National Technological University of Argentina, Avellaneda Regional Faculty (UTN FRA).**
 
 The aim of this project is to control a “Ball and Beam”-type structure, based on an object detection system, using the [OpenCV](http://www.opencv.org) library.
 
