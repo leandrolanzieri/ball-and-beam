@@ -1,10 +1,9 @@
 # Ball and Beam
----
+
 **The project has been realized for the DSP and Industrial Electronics courses, at the National Technological University of Argentina, Avellaneda Regional Faculty (UTN FRA).**
 
 The aim of this project is to control a “Ball and Beam”-type structure, based on an object detection system, using the [OpenCV](http://www.opencv.org) library.
 
----
 
 ## Requirements
 The code has been written and tested in Python 3.5.1. Dependencies are listed in the `requirements.txt` file. You will need at least:
@@ -13,7 +12,6 @@ The code has been written and tested in Python 3.5.1. Dependencies are listed in
   * OpenCV2 @ 1.0
   * PySerial @ 3.1.1 (only for comunication with the controller board)
 
----
 
 ## Usage
 After installing all the dependencies just run:
