@@ -28,6 +28,10 @@ python main.py -d -t
 3. **Calibrate colors**: Once the camera is calibrated, you will have to define the ranges for the color detecion. In the 'Calibrar Objetivo' menu, you will define the ranges for the target (the ball), and in the 'Calibrar referencia 1' you will be able to define the ranges for the reference.
 4. **PID control calibration**: The system was calibrated for a specific structure, so the PID control system constants will need to be adjusted to yours. Those constants are defined in the `config.json` file, they are named Kd, Kp, and Ki. If you change them, you will need to restart the system. The camera and color ranges configurations are saved after every use.
 
+
+License: [GNU GPLv3](https://www.gnu.org/licenses/gpl.html)
+
 ---
 ## TODO
 Upload the controller board schematics and an image of the structure, together with some specifications.
+
