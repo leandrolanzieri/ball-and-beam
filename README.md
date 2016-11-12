@@ -10,7 +10,7 @@ The code has been written and tested in Python 3.5.1. Dependencies are listed in
   * Numpy @ 1.11.1
   * PyQt4 @ 4.11.4
   * OpenCV2 @ 1.0
-  * PySerial @ 3.1.1 (only for comunication with the controller board)
+  * PySerial @ 3.1.1 (only for communication with the controller board)
 
 
 ## Usage
